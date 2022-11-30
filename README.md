@@ -1,4 +1,4 @@
-Tecnologia usada JavaScript, informa automaticamente o mês atual e o signo do mês.
+Tecnologia usando JavaScript, informa automaticamente o mês atual e o signo do mês.
 
 # signos-js
 
